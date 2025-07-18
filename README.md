@@ -1,6 +1,7 @@
 RemindMe
 
 Introducción
+
 RemindMe es una aplicación diseñada para mejorar la organización personal mediante recordatorios personalizables y notificaciones exactas al momento programado por el usuario. Está desarrollada para funcionar de manera independiente, ofreciendo mayor flexibilidad y seguridad en comparación con otras plataformas.
 
 Desarrollo Técnico
